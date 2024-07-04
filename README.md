@@ -26,20 +26,25 @@ Welcome to my GitHub profile! I'm a software developer with over 9 years of expe
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### APIs & Payment Gateways
-- Google Maps APIs
-- Various Payment Gateways
-- Third Party APIs Integration
+### Expert in following integrations
+- Stripe, Paypal, Braintree, PayU Money payment gateways integration
+- Google Map API's integration
+- Rest API's
+- Social App's integration like YouTube, Instagram, X, Facebook.
+- FCM Push notification Integration
+- Twilio video calling, voice calling, text chatting api integration.
+- Connecting Webhooks with website's.
+- Mobile recharge and sms sending api integration.
+- Third Party API's integration
+- Server Deployment
 
 ### Cloud Services
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ###
 
-<br clear="both">
-
 <h4 align="left">🌱 
--> My Portofolio : https://shantanu0329.github.io/portfolio </h4>
+-> My Portofolio : <a href="https://shantanu0329.github.io/portfolio" target="_blank">Click here!</a> </h4>
 
 ###
 
