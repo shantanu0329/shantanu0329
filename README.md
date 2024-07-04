@@ -1,6 +1,16 @@
-# 👋 Hi, I'm [Shantanu Yadav]
+<div align="center">
+  <img height="" src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif"  />
+</div>
 
-![Profile Banner]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fachinthajayashan%2Fachinthajayashan&psig=AOvVaw2ohSw0ffZLudF0tUT2WtLA&ust=1720194693887000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCU79_ejYcDFQAAAAAdAAAAABAE))
+###
+
+<h1 align="center">Hey! What's up?</h1>
+
+###
+
+
+# 👋 Hi, I'm Shantanu Yadav
+
 
 Welcome to my GitHub profile! I'm a software developer with over 9 years of experience in building robust and scalable applications. My expertise spans across various technologies and frameworks, with a strong focus on backend development and cloud solutions.
 
