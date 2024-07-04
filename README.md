@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a software developer with over 9 years of expe
 
 ## 🚀 Skills and Technologies
 
-### Programming Languages & Frameworks
+### Programming Languages & Frameworks I Used
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-4CAF50?style=for-the-badge&logo=mvc&logoColor=white)
@@ -33,6 +33,15 @@ Welcome to my GitHub profile! I'm a software developer with over 9 years of expe
 
 ### Cloud Services
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+###
+
+<br clear="both">
+
+<h4 align="left">🌱 
+-> My Portofolio : https://shantanu0329.github.io/portfolio </h4>
+
+###
 
 ## 📊 GitHub Stats
 
@@ -63,3 +72,17 @@ Description of your project 2. Highlight the technologies used and its features.
 ---
 
 *This portfolio is a testament to my journey and growth as a developer. If you are looking for a dedicated professional with a passion for technology and innovation, feel free to get in touch!*
+
+###
+
+<h2 align="left">Profile Views</h2>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ac.ac&left_color=blue&right_color=darkcyan"  />
+</div>
+
+###
